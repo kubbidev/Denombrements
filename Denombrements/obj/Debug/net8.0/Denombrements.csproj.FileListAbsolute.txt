@@ -1,0 +1,14 @@
+C:\Development\Projects\Denombrements\Denombrements\bin\Debug\net8.0\Denombrements.exe
+C:\Development\Projects\Denombrements\Denombrements\bin\Debug\net8.0\Denombrements.deps.json
+C:\Development\Projects\Denombrements\Denombrements\bin\Debug\net8.0\Denombrements.runtimeconfig.json
+C:\Development\Projects\Denombrements\Denombrements\bin\Debug\net8.0\Denombrements.dll
+C:\Development\Projects\Denombrements\Denombrements\bin\Debug\net8.0\Denombrements.pdb
+C:\Development\Projects\Denombrements\Denombrements\obj\Debug\net8.0\Denombrements.GeneratedMSBuildEditorConfig.editorconfig
+C:\Development\Projects\Denombrements\Denombrements\obj\Debug\net8.0\Denombrements.AssemblyInfoInputs.cache
+C:\Development\Projects\Denombrements\Denombrements\obj\Debug\net8.0\Denombrements.AssemblyInfo.cs
+C:\Development\Projects\Denombrements\Denombrements\obj\Debug\net8.0\Denombrements.csproj.CoreCompileInputs.cache
+C:\Development\Projects\Denombrements\Denombrements\obj\Debug\net8.0\Denombrements.dll
+C:\Development\Projects\Denombrements\Denombrements\obj\Debug\net8.0\refint\Denombrements.dll
+C:\Development\Projects\Denombrements\Denombrements\obj\Debug\net8.0\Denombrements.pdb
+C:\Development\Projects\Denombrements\Denombrements\obj\Debug\net8.0\Denombrements.genruntimeconfig.cache
+C:\Development\Projects\Denombrements\Denombrements\obj\Debug\net8.0\ref\Denombrements.dll
