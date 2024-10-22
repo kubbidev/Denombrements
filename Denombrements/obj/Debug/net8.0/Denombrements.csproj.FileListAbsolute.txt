@@ -12,3 +12,4 @@ C:\Development\Projects\Denombrements\Denombrements\obj\Debug\net8.0\refint\Deno
 C:\Development\Projects\Denombrements\Denombrements\obj\Debug\net8.0\Denombrements.pdb
 C:\Development\Projects\Denombrements\Denombrements\obj\Debug\net8.0\Denombrements.genruntimeconfig.cache
 C:\Development\Projects\Denombrements\Denombrements\obj\Debug\net8.0\ref\Denombrements.dll
+C:\Development\Projects\Denombrements\Denombrements\obj\Debug\net8.0\Denombrements.sourcelink.json
